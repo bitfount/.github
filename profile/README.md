@@ -19,12 +19,9 @@ Eliminate unnecessary sharing of raw data while maintaining full permission cont
 
 Use any of our built-in protocols, algorithms and models, create your own, or use one created by the Bitfount community, all while being fully compatible with Bitfount’s user-friendly, granular, RBAC-based governance system.
 
-👉  Sign up for access at [http://bitfount.com](https://t.co/rhRTXYGAw1)
-
+👉  Sign up for access at [https://bitfount.com](https://www.bitfount.com/)
 ✉️  Drop us a line at [info@bitfount.com](mailto:info@bitfount.com)
-
-📚  Check out the docs at [docs.bitfount.com](http://docs.bitfount.com)
-
+<!--- 📚  Check out the docs at [docs.bitfount.com](https://docs.bitfount.com)--->
 🐦  Or hit us up on Twitter: [@bitfount](https://twitter.com/bitfount)
 
 Oh, and we’re always on the lookout for passionate, talented people to [join our team](https://www.bitfount.com/company) and our mission to make the world’s intractable data interactable 🙌
