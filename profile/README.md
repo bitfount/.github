@@ -26,4 +26,4 @@ Use any of our built-in protocols, algorithms and models, create your own, or us
 
 🐦  Or hit us up on Twitter: [@bitfount](https://twitter.com/bitfount)
 
-Oh, and we’re always on the lookout for passionate, talented people to [join our team](https://www.bitfount.com/company) and our mission to make the world’s intractable data interactable 🙌
+Oh, and we’re always on the lookout for passionate, talented people to [join our team](https://www.bitfount.com/company/careers) and our mission to make the world’s intractable data interactable 🙌
