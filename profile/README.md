@@ -1,5 +1,5 @@
 ### **Hi, we're Bitfount** 👋
-![github-banner.png](profile/github-banner.png)
+![github-banner.png](./github-banner.png)
 
 Society’s data superpowers are gathering dust due to a problem that's easy to describe but hard to solve: *The data required to solve the world's most pressing problems isn't the kind that's easily shared.* Increasing regulations and the limitations of current data infrastructure have created painful, slow, expensive and often ineffective workarounds for what *should* be seamless collaborations between trusted partners. But it doesn't have to be this way.
 
